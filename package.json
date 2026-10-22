@@ -1,5 +1,5 @@
 {
-"name": "nexus-fca-unofficial",
+"name": "@nexus/fca-unofficial"
   "version": "1.0.0",
   "description": "Nexus FCA - Unofficial Facebook Chat API by Ariyan Shihab",
   "main": "dist/cjs.cjs",
