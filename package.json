@@ -1,7 +1,7 @@
 {
-"name": "@mdshihabhosein777-alt/shihab-x-fca"
+"name": "nexus-fca-unofficial",
   "version": "1.0.0",
-  "description": "Shihab X FCA — Advanced & Enhanced Facebook Chat API for Node.js (SAYO BOT V2 Ready)",
+  "description": "Nexus FCA - Unofficial Facebook Chat API by Ariyan Shihab",
   "main": "dist/cjs.cjs",
   "types": "dist/index.d.ts",
   "exports": {
